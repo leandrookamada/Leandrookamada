@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/leandrokamada/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEU@EMAIL.COM">
+  <a href="leandrolobatokmd@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=leandrookamada&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS">
@@ -20,7 +20,7 @@
 
 <br>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/gist/SEU-GIF-AQUI.gif" alt="terminal">
+
 
 ### `whoami`
 
@@ -34,10 +34,6 @@ gestão de vulnerabilidades, varredura, priorização e automação.
 Estudo focado em **segurança ofensiva** — enumeração, exploração e
 pós-exploração. Objetivo: migrar de gestão de vulnerabilidades para pentest.
 
-- 🎓 Engenharia da Computação — Faculdade Multivix (Vitória/ES)
-- 🎯 Estudando para o **eJPT**, com **OSCP** no horizonte
-- ⚡ Automação de scan, parsing de relatório e o que mais der para script
-- 📍 Vitória, ES — Brasil
 
 <br clear="right">
 
@@ -77,7 +73,7 @@ pós-exploração. Objetivo: migrar de gestão de vulnerabilidades para pentest.
 >
 > 🔗 **[Abrir repositório →](https://github.com/leandrookamada/juice-shop-lab)**
 >
-> **Agora:** Injection e Broken Authentication · **Próximo:** XSS e Broken Access Control
+
 
 <details>
 <summary><b>📁 Estudos anteriores</b></summary>
