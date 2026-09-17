@@ -84,7 +84,7 @@ pós-exploração. Objetivo: migrar de gestão de vulnerabilidades para pentest.
 
 ### calma, curioso 🤫
 
-<img src="URL-DO-GIF-AQUI" width="300" alt="shh">
+<img src="https://raw.githubusercontent.com/leandrookamada/leandrookamada/main/shhh-dog-dog.gif" width="300" alt="shh">
 
 **em breve.**
 
